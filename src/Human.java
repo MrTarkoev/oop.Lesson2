@@ -7,6 +7,7 @@ public class Human {
     private String town;
     String jobTitle;
 
+
     public String getTown() {
         return town;
     }
